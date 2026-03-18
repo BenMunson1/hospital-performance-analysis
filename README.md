@@ -180,5 +180,3 @@ If given more time, the analysis could be expanded in several ways:
   Consolidate data sources into a unified model for more advanced filtering and analysis
 
 ---
-
-This project demonstrates the ability to deliver **actionable insights that align with real business priorities in a healthcare setting**.
