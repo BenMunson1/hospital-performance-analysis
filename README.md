@@ -1,5 +1,5 @@
 # Hospital Performance Analysis
-
+#### Cost, Demand & Efficiency Insights (2022–2024)
 ---
 
 ## Executive Summary
@@ -52,8 +52,6 @@ The final Tableau dashboard was structured to guide stakeholders through a clear
 * Aggregations
 * Joins between encounter and patient-level data
 * Window functions for percentage-of-total calculations
-* Grouped analysis by department
-* Data structuring for dashboard compatibility
 
 **Tableau**
 
