@@ -158,6 +158,9 @@ The final Tableau dashboard was structured to guide stakeholders through a clear
 
 ---
 
+## Dashboard Preview
+![Dashboard](images/Dashboard_1.png)
+
 ## Next Steps
 
 If given more time, the analysis could be expanded in several ways:
